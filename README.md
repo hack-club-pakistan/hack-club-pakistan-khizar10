@@ -1,4 +1,4 @@
-# __**Khizar's**__ Personal Homepage
+# __*Khizar's*__ Personal Homepage
 ### Template Repository
 ---
 ![Asset1] (Asset1.jpg)
